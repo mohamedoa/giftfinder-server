@@ -121,16 +121,67 @@ export let products = [
   },
 ];
 
+// export let categories = [
+//   {
+//     id: 1,
+//     name: "Disney",
+//     image: "http://localhost:8081/disney.svg",
+//   },
+//   {
+//     id: 2,
+//     name: "Buildings",
+//     image: "http://localhost:8081/buildings.avif",
+//   },
+// ];
+
 export let categories = [
   {
     id: 1,
     name: "Disney",
-    image: "http://localhost:8081/disney.svg",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt3a9681109b10f6eb/DisneyLogo.png",
   },
   {
     id: 2,
     name: "Buildings",
-    image: "http://localhost:8081/buildings.avif",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt86e82cf721af9265/Buildings.png",
+  },
+  {
+    id: 3,
+    name: "Arts & Crafts",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt2565aa103c6be8a0/Arts_&_Craft.png",
+  },
+  {
+    id: 4,
+    name: "Botanicals",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blta7a8df21ed3487d2/Botanicals.png",
+  },
+  {
+    id: 5,
+    name: "Fantasy",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt8ad3d770b7429263/Fantasy.png",
+  },
+  {
+    id: 6,
+    name: "Film & TV",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blte2e5d27ec1267f97/Film_&_TV.png",
+  },
+  {
+    id: 7,
+    name: "Gaming",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt57fb8ced7812470c/Gaming.png",
+  },
+  {
+    id: 8,
+    name: "Music",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt9ed556d7289f0c14/Music.png",
   },
 ];
 
