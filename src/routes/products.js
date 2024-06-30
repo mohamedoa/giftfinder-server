@@ -37,10 +37,6 @@ router
     try {
       const newProduct = req.body;
 
-      if (!newProduct.isActive) {
-        newProduct.isCaptain = false;
-      }
-
       const product = updateProduct(newProduct);
 
       res.json(product);

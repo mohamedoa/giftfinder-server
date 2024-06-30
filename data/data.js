@@ -121,19 +121,6 @@ export let products = [
   },
 ];
 
-// export let categories = [
-//   {
-//     id: 1,
-//     name: "Disney",
-//     image: "http://localhost:8081/disney.svg",
-//   },
-//   {
-//     id: 2,
-//     name: "Buildings",
-//     image: "http://localhost:8081/buildings.avif",
-//   },
-// ];
-
 export let categories = [
   {
     id: 1,

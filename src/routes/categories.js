@@ -18,6 +18,5 @@ router.get("/:id/products", (req, res) => {
   category.products = getProductsByCategoryId(category.id);
   res.json(category);
 });
-// HELLO
 
 export default router;
